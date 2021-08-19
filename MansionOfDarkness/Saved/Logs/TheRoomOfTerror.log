@@ -1,0 +1,1080 @@
+﻿Log file open, 06/16/21 23:51:48
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TheRoomOfTerror
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 16.182539
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=BRT_32e7_ -epicuserid=981d0e89409144309b95378c8c8e3354 -epiclocale=es
+LogInit: Base Directory: D:/games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.16-21.52.05:692][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.16-21.52.05:692][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.16-21.52.05:692][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Engine.ini]
+[2021.06.16-21.52.05:692][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.16-21.52.05:692][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Engine.ini]
+[2021.06.16-21.52.05:692][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Engine.ini]
+[2021.06.16-21.52.05:692][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.16-21.52.05:692][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.16-21.52.05:692][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.16-21.52.05:692][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Engine.ini]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.16-21.52.05:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Engine.ini]
+[2021.06.16-21.52.05:693][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Engine.ini]
+[2021.06.16-21.52.05:722][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:722][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.16-21.52.05:722][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.16-21.52.05:722][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:722][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.16-21.52.05:722][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:722][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.16-21.52.05:722][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.16-21.52.05:723][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.16-21.52.05:724][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.16-21.52.05:724][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.16-21.52.05:724][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.16-21.52.05:724][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:724][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.16-21.52.05:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.16-21.52.05:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.16-21.52.05:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.16-21.52.05:724][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.16-21.52.05:724][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.16-21.52.05:724][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.16-21.52.05:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.16-21.52.05:726][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.16-21.52.05:727][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.16-21.52.05:728][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.16-21.52.05:728][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.16-21.52.05:728][  0]LogHAL: Display: Platform has ~ 8 GB [8534134784 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.16-21.52.05:728][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.16-21.52.05:728][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.16-21.52.05:728][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.16-21.52.05:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.16-21.52.05:730][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.16-21.52.05:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.16-21.52.05:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.16-21.52.05:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.16-21.52.05:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.16-21.52.05:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.16-21.52.05:732][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:732][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.16-21.52.05:732][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.16-21.52.05:732][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Scalability.ini]
+[2021.06.16-21.52.05:732][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.16-21.52.05:732][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.16-21.52.05:732][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.16-21.52.05:732][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.16-21.52.05:820][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.16-21.52.05:820][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.16-21.52.05:820][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.16-21.52.05:821][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documentos/TheRoomOfTerror/Saved/Config/Windows/Engine.ini]
+[2021.06.16-21.52.05:821][  0]LogInit: Computer: DESKTOP-QASRUI4
+[2021.06.16-21.52.05:821][  0]LogInit: User: ferre
+[2021.06.16-21.52.05:821][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.06.16-21.52.05:821][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.16-21.52.05:821][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.06.16-21.52.05:821][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.16-21.52.05:821][  0]LogMemory: Process Physical Memory: 135.39 MB used, 135.40 MB peak
+[2021.06.16-21.52.05:821][  0]LogMemory: Process Virtual Memory: 119.42 MB used, 119.42 MB peak
+[2021.06.16-21.52.05:821][  0]LogMemory: Physical Memory: 6864.85 MB used,  1273.93 MB free, 8138.79 MB total
+[2021.06.16-21.52.05:821][  0]LogMemory: Virtual Memory: 134209360.00 MB used,  8367.88 MB free, 134217728.00 MB total
+[2021.06.16-21.52.05:839][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.16-21.52.10:281][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.16-21.52.10:537][  0]LogInit: Using OS detected language (es-ES).
+[2021.06.16-21.52.10:537][  0]LogInit: Using OS detected locale (es-ES).
+[2021.06.16-21.52.14:992][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2021.06.16-21.52.16:197][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.16-21.52.16:785][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.16-21.52.18:091][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.16-21.52.18:091][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.16-21.53.15:827][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.06.16-21.53.15:827][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.16-21.53.15:827][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.16-21.53.15:827][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.16-21.53.16:100][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.06.16-21.53.16:100][  0]LogD3D11RHI:       4018/0/4069 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.16-21.53.16:104][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.16-21.53.16:105][  0]LogD3D11RHI:       0/0/4069 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.16-21.53.16:105][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.16-21.53.16:130][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.16-21.53.16:130][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.16-21.53.16:130][  0]LogWindows: EnumDisplayDevices:
+[2021.06.16-21.53.16:131][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2021.06.16-21.53.16:133][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.06.16-21.53.16:136][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.06.16-21.53.16:137][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.06.16-21.53.16:138][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.16-21.53.16:138][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.06.16-21.53.16:138][  0]LogD3D11RHI:   Driver Version: 466.63 (internal:27.21.14.6663, unified:466.63)
+[2021.06.16-21.53.16:138][  0]LogD3D11RHI:      Driver Date: 5-27-2021
+[2021.06.16-21.53.16:138][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.06.16-21.53.16:340][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.16-21.53.16:341][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.16-21.53.16:341][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.16-21.53.16:372][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.16-21.53.16:375][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.16-21.53.18:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.16-21.53.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.16-21.53.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.16-21.53.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.16-21.53.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.16-21.53.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.16-21.53.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.16-21.53.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.16-21.53.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.16-21.53.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.16-21.53.18:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.16-21.53.19:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.16-21.53.19:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.16-21.53.19:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.16-21.53.20:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.16-21.53.20:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.16-21.53.20:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.16-21.53.21:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.16-21.53.21:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.16-21.53.21:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.16-21.53.22:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.16-21.53.22:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.16-21.53.22:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.16-21.53.22:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.16-21.53.22:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.16-21.53.23:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.16-21.53.23:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.16-21.53.23:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.16-21.53.23:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.16-21.53.23:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.16-21.53.23:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.16-21.53.24:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.16-21.53.24:117][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.16-21.53.24:711][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.16-21.53.30:410][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.16-21.53.30:411][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../Documentos/TheRoomOfTerror/Intermediate/Shaders/WorkingDirectory/16484/).
+[2021.06.16-21.53.30:411][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ferre/AppData/Local/Temp/UnrealShaderWorkingDir/C0379B9F48B67483D91F5C98DC50F33E/'.
+[2021.06.16-21.53.30:411][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.16-21.53.30:411][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.16-21.54.11:093][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.16-21.54.11:388][  0]LogDerivedDataCache: Loaded boot cache 0.29s 87MB C:/Users/ferre/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.16-21.54.11:388][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ferre/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.16-21.54.11:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documentos/TheRoomOfTerror/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.16-21.54.11:388][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.16-21.54.11:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documentos/TheRoomOfTerror/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.16-21.54.11:388][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.16-21.54.11:527][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.16-21.54.11:527][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.16-21.54.11:528][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.16-21.54.11:559][  0]LogDerivedDataCache: Speed tests for C:/Users/ferre/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.06.16-21.54.11:559][  0]LogDerivedDataCache: Display: Performance to C:/Users/ferre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=78.44MBs, RandomWriteSpeed=48.93MBs. Assigned SpeedClass 'Local'
+[2021.06.16-21.54.11:560][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ferre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.16-21.54.11:560][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.16-21.54.11:560][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.16-21.54.11:666][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.16-21.54.11:745][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.16-21.54.14:039][  0]LogAssetRegistry: FAssetRegistry took 0.0048 seconds to start up
+[2021.06.16-21.54.15:960][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.16-21.54.15:960][  0]LogInit: Active device profile: [0000019555D2BA00][0000019554E08B80 49] Windows
+[2021.06.16-21.54.15:961][  0]LogInit: Profiles: [0000019555D2BA00][0000019554E08B80 49] Windows, [0000019555CE8800][0000019554E10D00 49] WindowsNoEditor, [0000019555D28900][0000019554E14E80 49] WindowsServer, [0000019555CEB400][0000019554E19000 49] WindowsClient, [0000019555D2B500][0000019554E1D180 49] IOS, [0000019555CE8C00][0000019554E21300 49] iPadAir, [0000019555D28E00][0000019554E25480 49] iPadAir2, [0000019555C99000][0000019554E296C0 49] IPadPro, [0000019555C99100][0000019554E0D700 49] iPadAir3, [0000019555D2B000][0000019554E2D840 49] iPadAir4, [0000019555C98E00][0000019554E31980 49] iPadMini2, [0000019555D29200][0000019554E39B00 49] iPadMini3, [0000019555C9A000][0000019554E3DC80 49] iPadMini4, [0000019555D2AA00][0000019554E40140 49] iPadMini5, [0000019555CEB800][0000019554E48400 49] iPhone6, [0000019555CEB700][0000019554E44440 49] iPodTouch6, [0000019555C98A00][0000019554E50700 49] iPhone7, [0000019555C99E00][0000019554E4C740 49] iPodTouch7, [0000019555CEB200][0000019554E548C0 49] iPhone5S, [0000019555C98400][0000019554E58A40 49] iPhone6Plus, [0000019555CEA800][0000019554E5CBC0 49] iPhone6S, [0000019555C9B700][0000019554E60D40 49] iPhone6SPlus, [0000019555CEB500][0000019554E64EC0 49] iPhone7Plus, [0000019555C98C00][0000019554E69040 49] iPhoneSE, [0000019555CE8500][0000019554E6D1C0 49] iPhone8, [0000019555C9A700][0000019554E71340 49] iPhone8Plus, [0000019555CE8700][0000019554E754C0 49] iPhoneX, [0000019555C99700][0000019554E79640 49] iPhoneXS, [0000019555CEA200][0000019554E35780 49] iPhoneXSMax, [0000019555C99A00][0000019554E7D8C0 49] iPhoneXR, [0000019555CEA700][0000019554E81A00 49] iPhone11, [0000019555C98700][0000019554E89B80 49] iPhone11Pro, [0000019555CE8900][0000019554E8DD00 49] iPhone11ProMax, [0000019555C99C00][0000019554E901C0 49] iPhoneSE2, [0000019555CE8F00][0000019554E94340 49] iPhone12Mini, [0000019555C99F00][0000019554E984C0 49] iPhone12, [0000019555CE9300][0000019554E9C640 49] iPhone12Pro, [0000019555C9A600][0000019554EA07C0 49] iPhone12ProMax, [0000019555CE9E00][0000019554EA4940 49] iPadPro105, [0000019555C98500][0000019554EA8AC0 49] iPadPro129, [0000019555CEBD00][0000019554EACC40 49] iPadPro97, [0000019555C99800][0000019554EB0DC0 49] iPadPro2_129, [0000019555CEA900][0000019554EB4F40 49] iPad5, [0000019555C99B00][0000019554EB90C0 49] iPad6, [0000019555CE8400][0000019554EBD240 49] iPad7, [0000019555C9B100][0000019554EC13C0 49] iPad8, [0000019555CE9D00][0000019554EC5540 49] iPadPro11, [0000019555C9A800][0000019554EC96C0 49] iPadPro2_11, [0000019555CEAF00][0000019554E85800 49] iPadPro3_129, [0000019555C9A900][0000019554ECD940 49] iPadPro4_129, [0000019555CE9700][0000019554ED1A80 49] AppleTV, [0000019555C9A500][0000019554ED9C00 49] AppleTV4K, [0000019555CEA100][0000019554EDC0C0 49] TVOS, [0000019555C98600][0000019554EE0240 49] Mac, [0000019555CEB900][0000019554EE43C0 49] MacClient, [0000019555C9B300][0000019554EE8540 49] MacNoEditor, [0000019555CEB000][0000019554EEC6C0 49] MacServer, [0000019555C9BC00][0000019554EF0840 49] Linux, [0000019555CEBE00][0000019554EF49C0 49] LinuxNoEditor, [0000019555C98900][0000019554EF8B40 49] LinuxAArch64NoEditor, [0000019555CE9100][0000019554EFCCC0 49] LinuxClient, [0000019555C9B600][0000019554F00E40 49] LinuxAArch64Client, [0000019555CE8E00][0000019554F04FC0 49] LinuxServer, [0000019555D89C00][0000019554F09140 49] LinuxAArch64Server, [0000019555D2BE00][0000019554F0D2C0 49] Android, [0000019555D89500][0000019554F11440 49] Android_Low, [0000019555D29300][0000019554F155C0 49] Android_Mid, [0000019555D88200][0000019554F19740 49] Android_High, [0000019555D28400][0000019554ED5880 49] Android_Default, [0000019555D89600][0000019554F1D9C0 49] Android_Adreno4xx, [0000019555D2AB00][0000019554F21B00 49] Android_Adreno5xx_Low, [0000019555D89F00][0000019554F25C40 49] Android_Adreno5xx, [0000019555D2B700][0000019554F2C100 49] Android_Adreno6xx, [0000019555D88300][0000019554F30280 49] Android_Adreno6xx_Vulkan, [0000019555D28F00][0000019554F34400 49] Android_Mali_T6xx, [0000019555D89B00][0000019554F38580 49] Android_Mali_T7xx, [0000019555D2B800][0000019554F3C700 49] Android_Mali_T8xx, [0000019555D89100][0000019554F40880 49] Android_Mali_G71, [0000019555D29500][0000019554F44A00 49] Android_Mali_G72, [0000019555D89400][0000019554F48B80 49] Android_Mali_G72_Vulkan, [0000019555D29B00][0000019554F4CD00 49] Android_Mali_G76, [0000019555CE9200][0000019554F50E80 49] Android_Mali_G76_Vulkan, [0000019555C9BF00][0000019554F55000 49] Android_Mali_G77, [0000019555CE8B00][0000019554F59180 49] Android_Mali_G77_Vulkan, [0000019555C9AD00][0000019554F5D300 49] Android_Vulkan_SM5, [0000019555CEA000][0000019554F61480 49] Android_PowerVR_G6xxx, [0000019555C9AE00][0000019554F65600 49] Android_PowerVR_GT7xxx, [0000019555CE8600][0000019554F69780 49] Android_PowerVR_GE8xxx, [0000019555C98100][0000019554F298C0 49] Android_PowerVR_GM9xxx, [0000019555CEA600][0000019554F6DA00 49] Android_PowerVR_GM9xxx_Vulkan, [0000019555C9AA00][0000019554F71B40 49] Android_TegraK1, [0000019555CE9A00][0000019554F75C80 49] Android_Unknown_Vulkan, [0000019555C99D00][0000019554F7C140 49] Lumin, [0000019555CE9500][0000019554F802C0 49] Lumin_Desktop, [0000019555C9BE00][0000019554F84440 49] HoloLens, 
+[2021.06.16-21.54.20:653][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.16-21.54.20:653][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.16-21.54.20:653][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.16-21.54.20:653][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.16-21.54.20:653][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.16-21.54.21:241][  0]LogNetVersion: TheRoomOfTerror 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3184790176)
+[2021.06.16-21.55.05:498][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.16-21.55.05:594][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.095869 seconds
+[2021.06.16-21.55.05:606][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.06.16-21.55.05:606][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.06.16-21.55.05:606][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.16-21.55.40:550][  0]LogPython: Using Python 3.7.7
+[2021.06.16-21.55.50:692][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.16-21.55.51:070][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.16-21.55.54:357][  0]SourceControl: El control de código fuente está desactivado
+[2021.06.16-21.55.54:357][  0]SourceControl: El control de código fuente está desactivado
+[2021.06.16-21.55.54:609][  0]SourceControl: El control de código fuente está desactivado
+[2021.06.16-21.55.54:779][  0]SourceControl: El control de código fuente está desactivado
+[2021.06.16-21.55.55:100][  0]SourceControl: El control de código fuente está desactivado
+[2021.06.16-21.55.55:260][  0]LogUProjectInfo: Found projects:
+[2021.06.16-21.56.02:679][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.16-21.56.04:759][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.16-21.56.04:759][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.16-21.56.05:187][  0]LogCollectionManager: Loaded 0 collections in 0.001454 seconds
+[2021.06.16-21.56.05:724][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/TheRoomOfTerror/Saved/Collections/' took 0.00s
+[2021.06.16-21.56.05:724][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/TheRoomOfTerror/Content/Developers/ferre/Collections/' took 0.00s
+[2021.06.16-21.56.05:724][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/TheRoomOfTerror/Content/Collections/' took 0.00s
+[2021.06.16-21.56.05:744][  0]LogOcInput: OculusInput pre-init called
+[2021.06.16-21.56.06:043][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.16-21.56.06:043][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.16-21.56.08:305][  0]LogEngine: Initializing Engine...
+[2021.06.16-21.56.08:655][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.06.16-21.56.08:708][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.16-21.56.08:813][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.16-21.56.09:125][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.16-21.56.09:464][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.16-21.56.09:466][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.16-21.56.09:640][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.16-21.56.09:640][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.16-21.56.09:641][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.16-21.56.09:641][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.16-21.56.09:641][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.16-21.56.09:641][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.16-21.56.09:641][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.16-21.56.09:641][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.16-21.56.09:641][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.16-21.56.09:641][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.16-21.56.09:642][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.16-21.56.09:642][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.16-21.56.09:920][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.16-21.56.09:920][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.16-21.56.09:995][  0]LogAudioMixer: Display: Using Audio Device Altavoces (3- USB Gaming Headset HX500)
+[2021.06.16-21.56.10:007][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.16-21.56.10:014][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.16-21.56.10:014][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.16-21.56.10:017][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.16-21.56.10:017][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.16-21.56.10:017][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.16-21.56.10:019][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.16-21.56.10:019][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.16-21.56.10:019][  0]LogInit: FAudioDevice initialized.
+[2021.06.16-21.56.10:070][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.16-21.56.10:071][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.16-21.56.10:256][  0]LogDerivedDataCache: Saved boot cache 0.18s 87MB C:/Users/ferre/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.16-21.56.10:262][  0]LogInit: Texture streaming: Enabled
+[2021.06.16-21.56.11:214][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.06.16-21.56.11:277][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.16-21.56.11:277][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.16-21.56.11:359][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.16-21.56.12:225][  0]LogInit: Transaction tracking system initialized
+[2021.06.16-21.56.14:541][  0]BlueprintLog: New page: Cargar el editor
+[2021.06.16-21.56.18:952][  0]LocalizationService: Localization service is disabled
+[2021.06.16-21.56.19:992][  0]TimingProfiler: Initialize
+[2021.06.16-21.56.19:993][  0]TimingProfiler: OnSessionChanged
+[2021.06.16-21.56.19:993][  0]LoadingProfiler: Initialize
+[2021.06.16-21.56.19:993][  0]LoadingProfiler: OnSessionChanged
+[2021.06.16-21.56.19:993][  0]NetworkingProfiler: Initialize
+[2021.06.16-21.56.19:993][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.16-21.56.19:993][  0]MemoryProfiler: Initialize
+[2021.06.16-21.56.19:993][  0]MemoryProfiler: OnSessionChanged
+[2021.06.16-21.56.25:655][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/TheRoomOfTerror/Content/' took 0.01s
+[2021.06.16-21.56.25:655][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.16-21.56.25:656][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.16-21.56.37:678][  0]SourceControl: El control de código fuente está desactivado
+[2021.06.16-21.56.37:678][  0]LogUnrealEdMisc: Loading editor; pre map load, took 364.696
+[2021.06.16-21.56.38:361][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.06.16-21.56.38:426][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.16-21.56.38:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-21.56.38:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.16-21.56.39:973][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.06.16-21.56.40:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.06.16-21.56.40:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.06.16-21.56.40:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.06.16-21.56.40:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.06.16-21.56.40:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.06.16-21.56.40:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.06.16-21.56.40:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.06.16-21.56.40:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.06.16-21.56.40:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.06.16-21.56.41:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.06.16-21.56.41:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.06.16-21.56.41:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.06.16-21.56.41:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.06.16-21.56.41:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.06.16-21.56.41:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.06.16-21.56.41:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.06.16-21.56.41:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.06.16-21.56.41:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Fire01.uasset"
+[2021.06.16-21.56.41:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.06.16-21.56.42:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.06.16-21.56.42:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.06.16-21.56.42:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Light01.uasset"
+[2021.06.16-21.56.42:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.06.16-21.56.42:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Light02.uasset"
+[2021.06.16-21.56.42:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.06.16-21.56.42:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.06.16-21.56.42:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.06.16-21.56.42:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.06.16-21.56.42:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.06.16-21.56.43:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.06.16-21.56.43:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.06.16-21.56.43:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.06.16-21.56.44:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.06.16-21.56.44:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Steam01.uasset"
+[2021.06.16-21.56.44:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.06.16-21.56.44:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.06.16-21.56.44:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.06.16-21.56.44:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.06.16-21.56.44:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.06.16-21.56.44:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.06.16-21.56.45:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.06.16-21.56.45:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.06.16-21.56.45:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.06.16-21.56.45:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.06.16-21.56.45:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.06.16-21.56.45:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.06.16-21.56.45:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.06.16-21.56.45:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.06.16-21.56.45:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.06.16-21.56.45:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.06.16-21.56.46:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.06.16-21.56.50:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.06.16-21.56.50:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.06.16-21.56.50:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.06.16-21.56.50:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.06.16-21.56.51:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.06.16-21.56.51:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Maps/StarterMap.umap"
+[2021.06.16-21.56.53:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.06.16-21.56.53:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.06.16-21.56.53:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.06.16-21.56.53:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.06.16-21.56.54:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.06.16-21.56.54:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.06.16-21.56.54:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.06.16-21.56.54:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.06.16-21.56.54:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.06.16-21.56.54:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.06.16-21.56.54:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.06.16-21.56.55:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.06.16-21.56.55:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.06.16-21.56.55:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.06.16-21.56.55:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.06.16-21.56.56:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.06.16-21.56.56:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.06.16-21.56.57:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.06.16-21.56.57:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.06.16-21.56.57:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.06.16-21.56.58:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.06.16-21.56.58:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.06.16-21.56.58:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.06.16-21.56.59:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.06.16-21.56.59:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.06.16-21.56.59:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.06.16-21.56.59:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.06.16-21.56.59:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.06.16-21.57.00:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.06.16-21.57.00:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.06.16-21.57.00:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.06.16-21.57.01:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.06.16-21.57.05:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.06.16-21.57.05:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.06.16-21.57.05:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.06.16-21.57.05:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.06.16-21.57.05:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.06.16-21.57.05:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.06.16-21.57.06:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.06.16-21.57.06:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.06.16-21.57.06:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.06.16-21.57.06:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.06.16-21.57.06:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.06.16-21.57.06:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.06.16-21.57.07:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.06.16-21.57.07:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.06.16-21.57.07:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.06.16-21.57.07:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.06.16-21.57.07:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.06.16-21.57.07:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.06.16-21.57.08:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.06.16-21.57.08:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.06.16-21.57.08:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.06.16-21.57.08:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.06.16-21.57.08:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.06.16-21.57.08:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.06.16-21.57.08:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.06.16-21.57.09:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.06.16-21.57.09:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.06.16-21.57.09:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.06.16-21.57.09:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.06.16-21.57.09:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.06.16-21.57.09:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.06.16-21.57.09:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.06.16-21.57.10:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.06.16-21.57.10:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_Door.uasset"
+[2021.06.16-21.57.10:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.06.16-21.57.10:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.06.16-21.57.10:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.06.16-21.57.10:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.06.16-21.57.10:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.06.16-21.57.10:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.06.16-21.57.10:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.06.16-21.57.10:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.06.16-21.57.11:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.06.16-21.57.11:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.06.16-21.57.11:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.06.16-21.57.11:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.06.16-21.57.11:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.06.16-21.57.11:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.06.16-21.57.12:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.06.16-21.57.12:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.06.16-21.57.12:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.06.16-21.57.12:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.06.16-21.57.13:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.06.16-21.57.13:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.06.16-21.57.13:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.06.16-21.57.13:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.06.16-21.57.13:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.06.16-21.57.13:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.06.16-21.57.13:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.06.16-21.57.13:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.06.16-21.57.13:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.06.16-21.57.13:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.06.16-21.57.13:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.06.16-21.57.13:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.06.16-21.57.14:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.06.16-21.57.14:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.06.16-21.57.14:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.06.16-21.57.14:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.06.16-21.57.14:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.06.16-21.57.14:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.06.16-21.57.14:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.06.16-21.57.14:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.06.16-21.57.17:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.06.16-21.57.18:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.06.16-21.57.18:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.06.16-21.57.18:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.06.16-21.57.19:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.06.16-21.57.19:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.06.16-21.57.20:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.06.16-21.57.20:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.06.16-21.57.21:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.06.16-21.57.21:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.06.16-21.57.21:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.06.16-21.57.22:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.06.16-21.57.23:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.06.16-21.57.24:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.06.16-21.57.25:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.06.16-21.57.25:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.06.16-21.57.26:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.06.16-21.57.27:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.06.16-21.57.28:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.06.16-21.57.28:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.06.16-21.57.28:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.06.16-21.57.28:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.06.16-21.57.28:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.06.16-21.57.28:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.06.16-21.57.28:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.06.16-21.57.28:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.06.16-21.57.28:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.06.16-21.57.29:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.06.16-21.57.29:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.06.16-21.57.31:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.06.16-21.57.31:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.06.16-21.57.32:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.06.16-21.57.32:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.06.16-21.57.33:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.06.16-21.57.33:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.06.16-21.57.34:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.06.16-21.57.34:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.06.16-21.57.35:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.06.16-21.57.38:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.06.16-21.57.40:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.06.16-21.57.41:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.06.16-21.57.41:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.06.16-21.57.42:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.06.16-21.57.43:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.06.16-21.57.44:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.06.16-21.57.44:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.06.16-21.57.44:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.06.16-21.57.44:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.06.16-21.57.44:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.06.16-21.57.45:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.06.16-21.57.45:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.06.16-21.57.45:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.06.16-21.57.46:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.06.16-21.57.46:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.06.16-21.57.47:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.06.16-21.57.48:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.06.16-21.57.49:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.06.16-21.57.50:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.06.16-21.57.51:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.06.16-21.57.52:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.06.16-21.57.52:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.06.16-21.57.52:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.06.16-21.57.53:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.06.16-21.57.54:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.06.16-21.57.55:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.06.16-21.57.56:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.06.16-21.57.57:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.06.16-21.57.58:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.06.16-21.57.59:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.06.16-21.57.59:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.06.16-21.57.59:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.06.16-21.58.00:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.06.16-21.58.00:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.06.16-21.58.01:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.06.16-21.58.02:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.06.16-21.58.02:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.06.16-21.58.03:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.06.16-21.58.08:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.06.16-21.58.10:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.06.16-21.58.11:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.06.16-21.58.12:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.06.16-21.58.13:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.06.16-21.58.13:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.06.16-21.58.14:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.06.16-21.58.14:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.06.16-21.58.14:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.06.16-21.58.14:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.06.16-21.58.15:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.06.16-21.58.15:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.06.16-21.58.15:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.06.16-21.58.15:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.06.16-21.58.15:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.06.16-21.58.15:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.06.16-21.58.16:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.06.16-21.58.16:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.06.16-21.58.16:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.06.16-21.58.16:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.06.16-21.58.16:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.06.16-21.58.17:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.06.16-21.58.17:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.06.16-21.58.17:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.06.16-21.58.18:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.06.16-21.58.18:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.06.16-21.58.18:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.06.16-21.58.19:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.06.16-21.58.20:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.06.16-21.58.21:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.06.16-21.58.21:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.06.16-21.58.22:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.06.16-21.58.27:748][  0]LogStaticMesh: Generando la malla estática Floor_400x400...
+[2021.06.16-21.58.29:416][  0]LogStaticMesh: Built static mesh [1.65s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.06.16-21.58.41:609][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.06.16-21.58.49:883][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2021.06.16-21.58.52:077][  0]LogSavePackage: Moving '../../../../../Documentos/TheRoomOfTerror/Saved/Floor_400x400F6AE3F3643BA586A540A60A4236B9BF4.tmp' to '../../../../../Documentos/TheRoomOfTerror/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.06.16-21.58.52:601][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.06.16-21.58.52:772][  0]Cmd: MAP LOAD FILE="../../../../../Documentos/TheRoomOfTerror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.16-21.58.52:900][  0]LightingResults: New page: Diseñar la iluminación
+[2021.06.16-21.58.54:254][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.16-21.58.54:254][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.16-21.58.54:839][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.16-21.58.55:848][  0]MapCheck: New page: Revisión del mapa
+[2021.06.16-21.58.55:849][  0]LightingResults: New page: Diseñar la iluminación
+[2021.06.16-21.59.03:168][  0]LogUObjectHash: Compacting FUObjectHashTables data took  37.67ms
+[2021.06.16-21.59.24:615][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.06.16-21.59.25:576][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.06.16-21.59.25:577][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.16-21.59.36:149][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.16-21.59.38:085][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.06.16-21.59.38:309][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.16-21.59.38:332][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 23,31ms to complete.
+[2021.06.16-21.59.38:333][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 45.730
+[2021.06.16-21.59.45:930][  0]LogUnrealEdMisc: Total Editor Startup Time, took 552.947
+[2021.06.16-22.00.04:998][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.16-22.00.05:484][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.16-22.00.05:496][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.16-22.00.05:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.16-22.00.11:572][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0227 seconds. Added 3628 classes and 872 folders.
+[2021.06.16-22.00.13:146][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.06.16-22.00.14:031][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.16-22.00.14:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.14:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.16-22.00.14:093][  0]LogPakFile: OnPakFileMounted2Time == 0.061380
+[2021.06.16-22.00.14:758][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.16-22.00.14:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.14:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.16-22.00.14:758][  0]LogPakFile: OnPakFileMounted2Time == 0.061384
+[2021.06.16-22.00.14:981][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.16-22.00.14:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.14:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.16-22.00.14:981][  0]LogPakFile: OnPakFileMounted2Time == 0.061388
+[2021.06.16-22.00.15:168][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.16-22.00.15:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.15:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.16-22.00.15:169][  0]LogPakFile: OnPakFileMounted2Time == 0.061393
+[2021.06.16-22.00.15:451][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.16-22.00.15:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.15:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.16-22.00.15:451][  0]LogPakFile: OnPakFileMounted2Time == 0.061397
+[2021.06.16-22.00.15:826][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.16-22.00.15:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.15:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.16-22.00.15:826][  0]LogPakFile: OnPakFileMounted2Time == 0.061402
+[2021.06.16-22.00.16:051][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.16-22.00.16:051][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.16:051][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.16-22.00.16:051][  0]LogPakFile: OnPakFileMounted2Time == 0.061406
+[2021.06.16-22.00.16:308][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.16-22.00.16:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.16:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.16-22.00.16:308][  0]LogPakFile: OnPakFileMounted2Time == 0.061410
+[2021.06.16-22.00.16:538][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.16-22.00.16:538][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.16:538][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.16-22.00.16:538][  0]LogPakFile: OnPakFileMounted2Time == 0.061417
+[2021.06.16-22.00.16:746][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.16-22.00.16:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.16:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.16-22.00.16:746][  0]LogPakFile: OnPakFileMounted2Time == 0.061422
+[2021.06.16-22.00.17:087][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.16-22.00.17:087][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.17:087][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.16-22.00.17:087][  0]LogPakFile: OnPakFileMounted2Time == 0.061426
+[2021.06.16-22.00.17:307][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.16-22.00.17:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.17:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.16-22.00.17:307][  0]LogPakFile: OnPakFileMounted2Time == 0.061430
+[2021.06.16-22.00.17:451][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.16-22.00.17:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.17:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.16-22.00.17:451][  0]LogPakFile: OnPakFileMounted2Time == 0.061438
+[2021.06.16-22.00.17:630][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.16-22.00.17:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.17:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.16-22.00.17:631][  0]LogPakFile: OnPakFileMounted2Time == 0.061445
+[2021.06.16-22.00.17:878][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.16-22.00.17:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.17:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.16-22.00.17:878][  0]LogPakFile: OnPakFileMounted2Time == 0.061452
+[2021.06.16-22.00.18:090][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.16-22.00.18:090][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.18:090][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.16-22.00.18:090][  0]LogPakFile: OnPakFileMounted2Time == 0.061460
+[2021.06.16-22.00.18:288][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.16-22.00.18:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.18:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.16-22.00.18:288][  0]LogPakFile: OnPakFileMounted2Time == 0.061464
+[2021.06.16-22.00.18:534][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.16-22.00.18:534][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.18:534][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.16-22.00.18:534][  0]LogPakFile: OnPakFileMounted2Time == 0.061469
+[2021.06.16-22.00.18:734][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.16-22.00.18:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.18:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.16-22.00.18:734][  0]LogPakFile: OnPakFileMounted2Time == 0.061473
+[2021.06.16-22.00.18:958][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.16-22.00.18:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.18:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.16-22.00.18:959][  0]LogPakFile: OnPakFileMounted2Time == 0.061478
+[2021.06.16-22.00.19:185][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.16-22.00.19:185][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.19:185][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.16-22.00.19:185][  0]LogPakFile: OnPakFileMounted2Time == 0.061482
+[2021.06.16-22.00.19:525][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.16-22.00.19:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.19:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.16-22.00.19:525][  0]LogPakFile: OnPakFileMounted2Time == 0.061490
+[2021.06.16-22.00.19:922][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.16-22.00.19:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.19:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.16-22.00.19:922][  0]LogPakFile: OnPakFileMounted2Time == 0.061495
+[2021.06.16-22.00.20:594][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.16-22.00.20:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.20:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.16-22.00.20:594][  0]LogPakFile: OnPakFileMounted2Time == 0.061502
+[2021.06.16-22.00.21:173][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.16-22.00.21:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.21:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.16-22.00.21:173][  0]LogPakFile: OnPakFileMounted2Time == 0.061508
+[2021.06.16-22.00.21:519][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.16-22.00.21:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.16-22.00.21:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.16-22.00.21:519][  0]LogPakFile: OnPakFileMounted2Time == 0.061514
+[2021.06.16-22.00.30:185][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.06.16-22.00.31:565][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.06.16-22.00.59:814][  0]LogSlate: Took 0.019449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.16-22.01.00:212][  0]LogSlate: Took 0.034999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.16-22.01.00:921][  0]LogSlate: Took 0.038690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.16-22.01.18:671][  0]LogRenderer: Reallocating scene render targets to support 1024x584 Format 10 NumSamples 1 (Frame:1).
+[2021.06.16-22.01.29:286][  0]LogSlate: Took 0.046997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.16-22.01.37:947][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.06.16-22.01.37:947][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.06.16-22.01.37:947][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.06.16-22.01.37:947][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.06.16-22.01.37:947][  0]LogLoad: (Engine Initialization) Total time: 664.96 seconds
+[2021.06.16-22.01.37:947][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.16-22.01.38:018][  0]LogInit: First time updating LLM stats...
+[2021.06.16-22.01.43:067][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.06.16-22.01.43:067][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.06.16-22.01.54:344][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.16-22.02.01:843][  1]LogAssetRegistry: Asset discovery search completed in 467.8048 seconds
+[2021.06.16-22.02.02:173][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.169400 seconds (updated 0 objects)
